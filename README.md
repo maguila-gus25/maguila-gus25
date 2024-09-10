@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maguila-gus25
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python, html/css
