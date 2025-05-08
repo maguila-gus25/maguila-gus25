@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Gustavo Ramos</h1>
-<h3 align="center">I am a Systems Information student at UFSC with an interest in software development, QA, and software engineering. I am eager to learn more about automated testing, CI/CD, Databases, and Smart Contracts, always focusing on best practices and scalable solutions.</h3>
+<h3 align="center">I am a Infomation Systems student at UFSC with an interest in software development, and software engineering. I am eager to learn more about automated testing, Databases, and Smart Contracts, always focusing on best practices and scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maguila-gus25&label=Profile%20views&color=0e75b6&style=flat" alt="maguila-gus25" /> </p>
 
