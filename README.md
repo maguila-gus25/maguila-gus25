@@ -1,11 +1,11 @@
-<h1 align="center">Hi👋, I'm Gustavo Ramos</h1>
-<h3 align="center">I am an Infomation Systems student at UFSC with an interest in software development, and software engineering. I am eager to learn more about automated testing, Databases, and Smart Contracts, always focusing on best practices and scalable solutions.</h3>
+<h1 align="center">I'm Gustavo Ramos</h1>
+<h3 align="center">I am an Infomation Systems student at UFSC with an interest in software development, and software engineering. Always focusing on best practices and scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maguila-gus25&label=Profile%20views&color=0e75b6&style=flat" alt="maguila-gus25" /> </p>
 
-- 🔭 I’m currently working on [Editor HTML/CSS online](https://github.com/maguila-gus25/UFSC---INE5646)
+- 🔭 I’m currently working on [Learning PHP](https://github.com/maguila-gus25/LearningPHP)
 
-- 🌱 I’m currently learning **Cyfrin Blockchain Basics and JS**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 📫 How to reach me **contato.gustavohcramos@gmail.com**
 
