@@ -2,8 +2,6 @@
 
 ### Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maguila-gus25&label=Profile views&color=0e75b6&style=flat" alt="maguila-gus25" /> </p>
-
 - 🔭 I'm currently working on **PaceHub**
 
 - 🌱 I'm currently learning **Data Science**
