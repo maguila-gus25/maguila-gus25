@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **PaceHub**<br>🌱 I'm currently learning **Data Science**<br>📫 How to reach me **contato.gustavohcramos@gmail.com**<br>⚡ Fun fact **I'm brazillian**<br>
+📫 How to reach me **contato.gustavohcramos@gmail.com**<br>⚡ Fun fact **I'm brazillian**<br>
 
 
 ## 🌐 Socials:
