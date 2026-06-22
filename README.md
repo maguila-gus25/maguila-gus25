@@ -10,7 +10,7 @@
 - 🌐 Also a **fullstack web** dev — React, Next.js and Tailwind on the front, Python/Node APIs on the back.
 - 🎓 Information Systems student at **UFSC** (Florianópolis, Brazil), graduating 2028.
 - 💡 I like writing code that solves **real-world problems**.
-- 📫 Reach me: **contato.gustavohcramos@gmail.com**
+- 📫 Reach me: **gustavohcramos@gmail.com**
 
 ### 🛠️ Tech Stack
 
