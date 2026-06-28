@@ -32,7 +32,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maguila-gus25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&height=165%20height=%20165%20alt=%20stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maguila-gus25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&height=165" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maguila-gus25&layout=compact&theme=tokyonight&hide_border=true&height=165" height="165" alt="top languages" />
 </div>
 
@@ -47,7 +47,11 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake.svg" />
+  </picture>
 </div>
 
 ### 🔗 Connect with me
