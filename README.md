@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maguila-gus25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&height=165" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maguila-gus25&layout=compact&theme=tokyonight&hide_border=true&height=165" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=maguila-gus25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&height=165" height="165" alt="stats" />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=maguila-gus25&layout=compact&theme=tokyonight&hide_border=true&height=165" height="165" alt="top languages" />
 </div>
 
 <div align="center">
